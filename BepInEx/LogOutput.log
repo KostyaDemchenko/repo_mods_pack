@@ -1,0 +1,455 @@
+[Message:   BepInEx] BepInEx 5.4.21.0 - REPO (02.03.2025 1:00:17)
+[Info   :   BepInEx] Running under Unity v2022.3.21.12519882
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 22 plugins to load
+[Warning:   BepInEx] Plugin [RepoRoles 1.3.4] targets a wrong version of BepInEx (5.4.23.2) and might not work until you update
+[Warning:   BepInEx] Plugin [XH_REPO_DamageShow&EnemyHealthBar_Mod 1.0.0] targets a wrong version of BepInEx (5.4.23.2) and might not work until you update
+[Info   :   BepInEx] Loading [REPOLib 2.0.0]
+[Info   :   REPOLib] REPOLib has awoken!
+[Info   :   REPOLib] Loading bundle at D:\repo\REPO\BepInEx\plugins\Rifle.repobundle...
+[Info   :   REPOLib] Loading bundle at D:\repo\REPO\BepInEx\plugins\ValuableCans.repobundle...
+[Info   :   BepInEx] Loading [Tokucade Loot 1.3.0]
+[Info   :   BepInEx] Loading [REPO_ServerList 1.0]
+[Info   :REPO_ServerList] Loaded!
+[Info   :   BepInEx] Loading [REPO_Translator 1.0]
+[Info   :REPO_Translator] Selected Translate: UA
+[Info   :REPO_Translator] DEVMODE Translate Enabled?: False
+[Info   :REPO_Translator] TranslateFilePath: D:\repo\REPO\BepInEx\plugins\REPO_Translator\Translate_UA.xml
+[Error  :REPO_Translator] I can't find translation file, check instruction on this link:https://thunderstore.io/c/repo/p/QERT2002/REPO_Translator/ if you try to do translation on your language!!!
+[Info   :REPO_Translator] Loaded!
+[Info   :   BepInEx] Loading [LethalCompanyValuables 1.1.1]
+[Info   :com.github.zehsteam.LethalCompanyValuables] LethalCompanyValuables has awoken!
+[Info   :com.github.zehsteam.LethalCompanyValuables] Successfully loaded assets from AssetBundle!
+[Info   :   BepInEx] Loading [XH_REPO_DamageShow&EnemyHealthBar_Mod 1.0.0]
+[Info   :XH_REPO_DamageShow&EnemyHealthBar_Mod] 小海怪物血量MOD加载成功!Xiaohai DamageShow&EnemyHealthBar MOD loaded successfully!
+[Info   :   BepInEx] Loading [XUnity Auto Translator 5.3.0]
+[Warning: Unity Log] OnLevelWasLoaded was found on AutoTranslationPlugin
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+[Debug  :XUnity.AutoTranslator] Screen resolution determine to be: 304x201
+[Info   :XUnity.AutoTranslator] Version of TextMesh Pro: 1.4.0.
+[Debug  :XUnity.AutoTranslator] Hooked UnityEngine.UI.Text.set_text through Harmony hooks.
+[Debug  :XUnity.AutoTranslator] Hooked UnityEngine.UI.Text.OnEnable through Harmony hooks.
+[Debug  :XUnity.AutoTranslator] Hooked TMPro.TextMeshProUGUI.OnEnable through Harmony hooks.
+[Debug  :XUnity.AutoTranslator] Hooked TMPro.TextMeshPro.OnEnable through Harmony hooks.
+[Debug  :XUnity.AutoTranslator] Hooked TMPro.TMP_Text.set_text through Harmony hooks.
+[Debug  :XUnity.AutoTranslator] Hooked TMPro.TMP_Text.SetText through Harmony hooks.
+[Debug  :XUnity.AutoTranslator] Hooked TMPro.TMP_Text.SetText through Harmony hooks.
+[Debug  :XUnity.AutoTranslator] Hooked TMPro.TMP_Text.SetText through Harmony hooks.
+[Debug  :XUnity.AutoTranslator] Hooked TMPro.TMP_Text.SetCharArray through Harmony hooks.
+[Debug  :XUnity.AutoTranslator] Hooked TMPro.TMP_Text.SetCharArray through Harmony hooks.
+[Warning:  HarmonyX] AccessTools.Method: Could not find method for type TMPro.TMP_Text and name SetCharArray and parameters (int[], int, int)
+[Warning:XUnity.AutoTranslator] Could not hook 'TMP_Text_SetCharArray_Hook3'. Likely due differences between different versions of the engine or text framework.
+[Debug  :XUnity.AutoTranslator] Disabling certificate checks for endpoints because of configuration.
+[Debug  :XUnity.AutoTranslator] Probing whether OnLevelWasLoaded or SceneManager is supported in this version of Unity. Any warnings related to OnLevelWasLoaded coming from Unity can safely be ignored.
+[Debug  :XUnity.AutoTranslator] SceneManager is supported in this version of Unity.
+[Debug  :XUnity.AutoTranslator] Loaded resize command text files.
+[Debug  :XUnity.AutoTranslator] --- Loading Global Translations ---
+[Debug  :XUnity.AutoTranslator] Loaded translation text files (took 0,01 seconds)
+[Debug  :XUnity.AutoTranslator] Created variation translations (took 0 seconds)
+[Debug  :XUnity.AutoTranslator] Created token translations (took 0 seconds)
+[Info   :XUnity.AutoTranslator] Loaded XUnity.AutoTranslator into Unity [2022.3.21f1] game.
+[Info   :   BepInEx] Loading [XUnity Resource Redirector 2.1.0]
+[Info   :   BepInEx] Loading [loaforcsSoundAPI 2.0.5]
+[Info   :me.loaforc.soundapi] Setting up config
+[Debug  :me.loaforc.soundapi] no DebugLogSource for AudioSourceAdditionalData.
+[Debug  :me.loaforc.soundapi] no DebugLogSource for SoundReplacementLoader.
+[Debug  :me.loaforc.soundapi] no DebugLogSource for SoundReplacementHandler.
+[Debug  :me.loaforc.soundapi] no DebugLogSource for MatchStrings.
+[Debug  :me.loaforc.soundapi] no DebugLogSource for ConditionsInfo.
+[Debug  :me.loaforc.soundapi] no DebugLogSource for UpdateEveryFrame.
+[Info   :me.loaforc.soundapi] Running patches
+[Info   :me.loaforc.soundapi] Registering data
+[Info   :me.loaforc.soundapi] Starting AudioManager.
+[Info   :me.loaforc.soundapi] me.loaforc.soundapi by loaforc has loaded :3
+[Info   :   BepInEx] Loading [MoreHead 1.2.8]
+[Message:  MoreHead] 
+
+ ███▄ ▄███▓ ▒█████   ██▀███  ▓█████  ██░ ██ ▓█████ ▄▄▄      ▓█████▄ 
+▓██▒▀█▀ ██▒▒██▒  ██▒▓██ ▒ ██▒▓█   ▀ ▓██░ ██▒▓█   ▀▒████▄    ▒██▀ ██▌
+▓██    ▓██░▒██░  ██▒▓██ ░▄█ ▒▒███   ▒██▀███░▒███  ▒██  ▀█▄  ░██   █▌
+▒██    ▒██ ▒██   ██░▒███▀█▄  ▒▓█  ▄ ░▓█ ░██ ▒▓█  ▄░██▄▄▄▄██ ░▓█▄   ▌
+▒██▒   ░██▒░ ████▓▒░░██▓ ▒██▒░▒████▒░▓█▒░██▓░▒████▒▓█   ▓██▒░▒████▓   v1.2.8
+░ ▒░   ░  ░░ ▒░▒░▒░ ░ ▒▓ ░▒▓░░░ ▒░ ░ ▒ ░░▒░▒░░ ▒░ ░▒▒   ▓▒█░ ▒▒▓  ▒ 
+░  ░      ░  ░ ▒ ▒░   ░▒ ░ ▒░ ░ ░  ░ ▒ ░▒░ ░ ░ ░  ░ ▒   ▒▒ ░ ░ ▒  ▒ 
+░      ░   ░ ░ ░ ▒    ░░   ░    ░    ░  ░░ ░   ░    ░   ▒    ░ ░  ░ 
+       ░       ░ ░     ░        ░  ░ ░  ░  ░   ░  ░     ░  ░   ░    
+
+[Info   :  MoreHead] 正在初始化装饰物管理器...
+[Info   :  MoreHead] 在plugins目录中找到 251 个.hhh文件
+[Info   :  MoreHead] 找到 251 个装饰物包文件
+[Info   :  MoreHead] - Decorations目录: 251 个文件
+[Info   :  MoreHead] 成功加载装饰物: Agumon, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Airpods, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Alex, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: AmogusBackpack, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Aubrey, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: BackQuillsShadow, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: BackQuillsSilver, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: BackQuillsSonic, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: BairdGoggles, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: BambooCopter竹蜻蜓, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Banshee, 标签: world
+[Info   :  MoreHead] 成功加载装饰物: BatterB, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: BatterR, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: BeannieB, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: BeannieR, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Ben, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: BerlinersBucketHelmBk, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: BerlinersBucketHelmBl, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: BerlinersBucketHelmR, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Betamon, 标签: world
+[Info   :  MoreHead] 成功加载装饰物: BigFloppa, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Bingus, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: BioDemoMan, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: BioSniperHat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: BioVoxHood, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Biyomon, 标签: world
+[Info   :  MoreHead] 成功加载装饰物: BlackCHat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: BlindEye盲视, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: BloxyColas, 标签: hip
+[Info   :  MoreHead] 成功加载装饰物: BMOBackpack, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: BombBackpack, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: BoneHat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: BonkHelmB, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: BonkHelmR, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Borbs, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: BowTieB, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: BowTieR, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: Brainiac, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Brainslug, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Brandon, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: BrimstoneElemental, 标签: world
+[Info   :  MoreHead] 成功加载装饰物: BrinkHood, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: BrowSad悲伤眉, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: BrutalHair, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: CanadianBeanie, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: CaveHat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: CharizardHat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: ChestFluffShadow, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: CHICKEN!!, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Chickenhat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: ChilledChaos, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Cigar雪茄, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: CloneTrooper, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: ClownNose小丑鼻子, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: CogArmour, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: C_O_H, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Corey, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Crown, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Dennis, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: DerbyHat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: DesertMarauder, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: DHMISDuckBackPack, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: DHMISRedBackPack, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: DHMISYellowBackPack, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Digivice_Classic, 标签: hip
+[Info   :  MoreHead] 成功加载装饰物: Digivice, 标签: hip
+[Info   :  MoreHead] 成功加载装饰物: DinkleBackpack, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: DipperHat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Doge, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Don Juan, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: DragonSlayer, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Dreads2, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Dreads3, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Dreads4, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Dreads, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: FairyCool, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: FatCat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Feathered, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: FireFighter, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: FireFlies, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Flamingo, 标签: hip
+[Info   :  MoreHead] 成功加载装饰物: FoxMask狐狸面具, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: FruitLoopBackpack, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Garfield, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: GearGrinder, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: GemCutterHat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: General, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: GenieOus, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: GiftedBackpackAlt, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: GiftedBackpack, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Gladiator, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Glasses眼镜, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: GlorpBackpack, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: GnomeDome, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: GnorcCommando, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: GnorcMusketeer, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: GnorcSentry, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: GoForGold, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Gomamon, 标签: world
+[Info   :  MoreHead] 成功加载装饰物: Graham, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: GravityGun, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: GwaCat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: HardHelm, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: HatsAPlenty, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: HonkHonk2, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: HonkHonk, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Hydration, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Jake, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Jed, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: KerfBackpackBlue, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: KerfBackpackPink, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: KerfBackpackRed, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Koromon, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: KunHair坤发, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Lalamon, 标签: world
+[Info   :  MoreHead] 成功加载装饰物: LegoYoda, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: LetThemEatWumpa, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: LonestarBeard, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: LonestarHatB, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: LonestarHatR, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Luigi, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Lunchly, 标签: hip
+[Info   :  MoreHead] 成功加载装饰物: Magical, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: MallCop, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: MarcusDewRag, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Mario, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Mark, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: MedicCloud, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Megaman, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Melty, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: MeowsicDJ, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Mizutsune, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Monkey, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: MonolithBadge, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Monsieur, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Monsters, 标签: hip
+[Info   :  MoreHead] 成功加载装饰物: MooMoo2, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: MooMoo3, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: MooMoo4, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: MooMoo, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: NBackpack, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: NeckFluffSilver, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: NeerDoWell, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: NeonTrucker, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: NintendoHat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: NSaneHatter, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: ODMGear, 标签: hip
+[Info   :  MoreHead] 成功加载装饰物: ODMSwords, 标签: hip
+[Info   :  MoreHead] 成功加载装饰物: OdradekB奥卓德克B, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: Odradek奥卓德克, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: Orange, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: OswinDragon, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Outback, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Outlaw, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Pagoda, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: PartyParrot, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: PartyPolkaDot, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: PartyPuffBall, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: PartyPurple, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Patamon, 标签: world
+[Info   :  MoreHead] 成功加载装饰物: PenguinBackpack, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Peter, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: PhantomHelm, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: PhysicsGun, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: PIGHEAD猪脑壳, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: PigNose猪鼻子, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Pig, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: PikachuHat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: PinsAndNeedles, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: PirateCap, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: PirateHat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: PirateZombie, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: PizzaMyMind, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Poet, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: PoweredByWumpa, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Prime, 标签: hip
+[Info   :  MoreHead] 成功加载装饰物: Quack, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: RagtimeBowler, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Rasmus, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: RayquazaHat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: RedCHat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Richard is back, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Richard, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Ritcher, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: RobloxAmy, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: RobloxKnuckles, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: RobloxMetalSonic, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: RobloxShadow, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: RobloxSilver, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: RobloxSonic, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: RobloxTails, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: RoxyBackpack, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Sakuyas hairdo 十六夜头饰, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Salamon, 标签: world
+[Info   :  MoreHead] 成功加载装饰物: ScotchBonnetBDown, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: ScotchBonnetBUp, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: ScotchBonnetRDown, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: ScotchBonnetRUp, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: SealBackpack, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: SergeantTub, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: ShindigSombrero, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Shogun, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Shotgun, 标签: hip
+[Info   :  MoreHead] 成功加载装饰物: Skull, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Slug, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Small flag小旗子, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: SnailRhino, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: SneakyReference, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: SombreroB, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: SombreroR, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: SpaceMarine, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Spyro, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Straw草帽, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: SultanB, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: SultanR, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Supa, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Tailgator, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: TallyHo, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: TeaParty, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: TedsHat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Teeth板牙儿, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Thief, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: TomasDragon, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Tony (bloody), 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Tony, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: TougherTimesBackPack, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Tricky, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Tricorne, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Tsunomon, 标签: world
+[Info   :  MoreHead] 成功加载装饰物: Upamon, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Urban, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: UziBackpack, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: VBackpack, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Vipes, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Waluigi, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Wario, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: WeewrFlies, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Weewr, 标签: world
+[Info   :  MoreHead] 成功加载装饰物: WildWest, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: WizardHatBlack, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: WizardHatGreen, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: WizardHatRed, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: WizardHatTan, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: WizardHatWhite, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: WizBiz, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: WumpAndCircumstance, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: WumpFiesta, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: XBandAidB胸口创口贴, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: XBandAidH头部创口贴, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Yarrrrr, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Yeehaw, 标签: head
+[Info   :  MoreHead] 装饰物管理器初始化完成，共加载了 251 个装饰物
+[Info   :  MoreHead] 已从JSON加载配置，包含 251 个装饰物状态
+[Info   :  MoreHead] 已从Unity存档位置加载配置: C:/Users/kosty/AppData/LocalLow/semiwork/REPO\REPOModData\MoreHead\MoreHeadConfig.json
+[Info   :  MoreHead] 已应用 251 个已保存的装饰物状态
+[Info   :   BepInEx] Loading [Menu Lib 2.2.0]
+[Debug  :  Menu Lib] Hooking `MenuPageMain.Start`
+[Debug  :  Menu Lib] Hooking `MenuPageSettings.Start`
+[Debug  :  Menu Lib] Hooking `MenuPageColor.Start`
+[Debug  :  Menu Lib] Hooking `MenuPageEsc.Start`
+[Debug  :  Menu Lib] Hooking `MenuPageLobby.Start`
+[Debug  :  Menu Lib] Hooking `SemiFunc.UIMouseHover`
+[Debug  :  Menu Lib] Hooking `MenuPage.StateClosing`
+[Debug  :  Menu Lib] Hooking `MenuScrollBox.Update`
+[Info   :   BepInEx] Loading [No Limit Chatbox 1.0.1]
+[Debug  :No Limit Chatbox] Hooking `ChatManager.StateActive`
+[Debug  :No Limit Chatbox] Hooking `ChatManager.StateActive`
+[Info   :   BepInEx] Loading [REPOConfig 1.1.8]
+[Debug  :REPOConfig] Hooking `MenuPageMain.Start`
+[Info   :   BepInEx] Loading [MapVote 1.0.1]
+[Debug  :   MapVote] Loaded MapVote!
+[Info   :   BepInEx] Loading [Late Join 0.1.2]
+[Debug  : Late Join] Hooking `RunManager.ChangeLevel`
+[Debug  : Late Join] Hooking `PlayerAvatar.Spawn`
+[Debug  : Late Join] Hooking `LevelGenerator.Start`
+[Debug  : Late Join] Hooking `PlayerAvatar.Start`
+[Info   :   BepInEx] Loading [Shop Items spawn in Level 1.7.17]
+[Info   :Shop Items spawn in Level] Plugin REPO_Shop_Items_in_Level is loaded!
+[Info   :Shop Items spawn in Level] Harmony patches applied!
+[Info   :   BepInEx] Loading [RepoRoles 1.3.4]
+[Info   :reporoles.mod] Init
+[Info   :   BepInEx] Loading [SteampunkItems 1.0.7]
+[Info   :   BepInEx] Loading [BigNuke 1.0.1]
+[Info   :   BigNuke] Vortex.BigNuke v1.0.1: Instance set.
+[Info   :   BigNuke] Vortex.BigNuke v1.0.1: Config loaded.
+[Info   :   BigNuke] Vortex.BigNuke v1.0.1: Nuke registered.
+[Info   :   BepInEx] Loading [PuppetEnemy 1.1.0]
+[Info   :PuppetEnemy] Patching PuppetEnemy...
+[Info   :PuppetEnemy] Loading assets...
+[Debug  :PuppetEnemy] Loading Asset Bundle: puppet
+[Info   :PuppetEnemy] Loading Puppet enemy setup...
+[Debug  :PuppetEnemy] Loaded Puppet enemy!
+[Info   :PuppetEnemy] VyrusGames.PuppetEnemy v1.1.0 has loaded!
+[Info   :   BepInEx] Loading [WesleysEnemies 1.0.0]
+[Info   : Unity Log] Loaded EnemySetup - Gusher
+[Info   : Unity Log] Loaded EnemySetup - 2GusherGroup
+[Info   : Unity Log] Loaded EnemySetup - 4GusherGroup
+[Info   : Unity Log] Loaded EnemySetup - Roaster
+[Info   : Unity Log] Loaded EnemySetup - 2RoasterGroup
+[Info   : Unity Log] Loaded EnemySetup - LostDroid
+[Info   : Unity Log] Loaded EnemySetup - 2LostDroidGroup
+[Info   : Unity Log] Loaded EnemySetup - 3LostDroidGroup
+[Error  :   REPOLib] Failed to register enemy "Gnome". Enemy prefab already exists in Resources with the same name.
+[Info   : Unity Log] Loaded EnemySetup - Gnomeageddon
+[Info   : Unity Log] Loaded EnemySetup - LostDestroyer
+[Info   : Unity Log] Loaded EnemySetup - 2DestroyerGroup
+[Info   : Unity Log] Please, if you don't like a mod, at least be respectful about it, do not call someones work 'dogshit' while calling them 'bluddingtons'..
+[Info   :   BepInEx] Loading [MorePlayers 1.0.1]
+[Info   :zelofi.MorePlayers] zelofi.MorePlayers is now awake!
+[Info   :me.loaforc.soundapi] Starting Sound-pack loading pipeline
+[Debug  :me.loaforc.soundapi] handling config
+[Info   :me.loaforc.soundapi] (Step 1) Loading Sound-pack definitions took 51ms
+[Info   :me.loaforc.soundapi] (Step 2) Loading Sound-pack mappings ('0') took 0ms
+[Info   :me.loaforc.soundapi] (Step 3) Skipped 0 collection(s), 0 replacement(s), 0 sound(s)
+[Info   :me.loaforc.soundapi] (Step 3) Loading sound replacement collections took 40ms
+[Info   :me.loaforc.soundapi] (Step 4) Started loading 12 audio file(s)
+[Info   :me.loaforc.soundapi] Waiting for splash screens to complete to continue...
+[Message:   BepInEx] Chainloader startup complete
+[Debug  :me.loaforc.soundapi] manager disabled
+[Debug  :me.loaforc.soundapi] manager destroyed
+[Info   : Unity Log] Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+[Info   : Unity Log] Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+[Info   :   REPOLib] Initializing NetworkPrefabs.
+[Info   :   REPOLib] Replaced PhotonNetwork.PrefabPool with CustomPrefabPool.
+[Info   :   REPOLib] Finished initializing NetworkPrefabs.
+[Info   :   REPOLib] Adding levels.
+[Info   :   REPOLib] Adding valuables to valuable presets.
+[Info   : Unity Log] VERSION: v0.1.2
+[Info   : Unity Log] STEAM ID: 76561198359707600
+[Info   :REPO_ServerList] Canvas founded!
+[Info   :REPO_ServerList] Loaded!
+[Info   :me.loaforc.soundapi] Starting AudioManager.
+[Debug  :me.loaforc.soundapi] cleaning up old audio source entries
+[Info   :   REPOLib] Adding items.
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Info   :  MoreHead] MenuManager已初始化，正在初始化MoreHeadUI...
+[Info   :  MoreHead] 数据缓存初始化完成，共缓存了 6 个标签的装饰物数据
+[Info   :  MoreHead] MoreHead UI已初始化
+[Info   : Unity Log] Getting Steam Auth Ticket...
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Error  : Unity Log] Material 'TextMeshPro/Mobile/Distance Field (Instance)' with Shader 'TextMeshPro/Mobile/Distance Field' doesn't have a color property '_GlowColor'
+[Debug  :AssetBundles] Loading Asset Bundle: assets
+[Debug  :AssetBundles] Loading Asset Bundle: assets
+[Info   :me.loaforc.soundapi] Splash screens done! Continuing pipeline
+[Warning:me.loaforc.soundapi] The game will freeze for a moment!
+[Info   :me.loaforc.soundapi] (Step 5) Queued half of the needed operations!
+[Info   :me.loaforc.soundapi] (Step 5) All file reads are done, waiting for the audio clips conversions.
+[Info   :me.loaforc.soundapi] (Step 6) Took 22ms to finish loading audio clips from files
+[Debug  :me.loaforc.soundapi] Active Threads that are left over: 0
+[Info   :me.loaforc.soundapi] Entire load process took an effective 120ms
+[Debug  :AssetBundles] Loading Asset Bundle: assets
+[Info   :XUnity.AutoTranslator] Skipping plugin scan because no plugin-specific translations has been registered.
+[Info   :   REPOLib] Finished loading bundles.
+[Info   :   REPOLib] Finished initializing custom commands.
+[Info   :Shop Items spawn in Level] Initializing disallowed items list
